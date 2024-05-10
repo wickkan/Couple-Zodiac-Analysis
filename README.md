@@ -8,14 +8,14 @@ This repository delves into the factors that influence how we choose our partner
 
 ### Divorce Rate:
 
-**To Be Started**
+Dataset: https://www.kaggle.com/datasets/andrewmvd/divorce-prediction
 
 ### Couple-Zodiac Analysis: Fact or Fiction?
 
-* Astrological Compatibility: Investigating the potential correlation between zodiac signs and relationship success.
-* The Power of Belief: Examining why people find meaning in zodiac signs and their compatibility.
-* Understanding Behaviour: Studying if belief in zodiac signs influences relationship choices.
-* Mitigating Bias: Exploring methods to account for potential biases within the data.
-* Informed Partner Selection: Examining the role of prior knowledge (e.g., religion, shared background) in partner preferences.
-  
+- Astrological Compatibility: Investigating the potential correlation between zodiac signs and relationship success.
+- The Power of Belief: Examining why people find meaning in zodiac signs and their compatibility.
+- Understanding Behaviour: Studying if belief in zodiac signs influences relationship choices.
+- Mitigating Bias: Exploring methods to account for potential biases within the data.
+- Informed Partner Selection: Examining the role of prior knowledge (e.g., religion, shared background) in partner preferences.
+
 **Please Note:** This project is an exploration and does not definitively endorse any belief system.
