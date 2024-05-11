@@ -2,9 +2,13 @@
 
 This repository delves into the factors that influence how we choose our partners. By analysing census data and survey responses, I aim to uncover patterns in partner selection and illuminate broader insights into human behaviour.
 
+---
+
 ### Online Dating:
 
 **To Be Started**
+
+---
 
 ### Divorce Predictor Analysis:
 
@@ -31,21 +35,23 @@ Initial exploratory data analysis (EDA) helped in understanding the distribution
 - Correlation analysis to understand the relationships between different variables.
 
 Statistical Testing
-Mann-Whitney U tests were conducted to ascertain the differences in responses between couples who are divorced and those who are not, helping identify statistically significant predictors.
+- Mann-Whitney U tests were conducted to ascertain the differences in responses between couples who are divorced and those who are not, helping identify statistically significant predictors.
 
 Feature Selection and Dimensionality Reduction
-Principal Component Analysis (PCA): Used to reduce the dimensionality of the dataset while retaining 95% of the variance, resulting in a simplified yet powerful set of features.
-Random Forest Analysis: Provided feature importance scores, identifying the most impactful predictors in the dataset.
+- Principal Component Analysis (PCA): Used to reduce the dimensionality of the dataset while retaining 95% of the variance, resulting in a simplified yet powerful set of features.
+- Random Forest Analysis: Provided feature importance scores, identifying the most impactful predictors in the dataset.
 
 Predictive Modeling
-Logistic Regression: Chosen for its ability to provide probabilities and for the ease of interpretation of its coefficients.
-Model Validation: Utilised cross-validation techniques to ensure the model's robustness and generalisability.
+- Logistic Regression: Chosen for its ability to provide probabilities and for the ease of interpretation of its coefficients.
+- Model Validation: Utilised cross-validation techniques to ensure the model's robustness and generalisability.
 
 **Results**
 
 The model demonstrated excellent predictive performance with an accuracy of nearly 98%, suggesting it can reliably predict divorce likelihood based on the given predictors.
 
 Dataset: https://www.kaggle.com/datasets/andrewmvd/divorce-prediction
+
+---
 
 ### Couple-Zodiac Analysis: Fact or Fiction?
 
